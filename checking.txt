@@ -1,0 +1,1 @@
+Develop a good working knowledge of Linux using both the graphical interface and command line
